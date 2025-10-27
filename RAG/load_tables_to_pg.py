@@ -10,7 +10,7 @@ load_dotenv()
 
 PG_URI   = os.getenv("PG_URI")                 # postgresql://...sslmode=require
 SCHEMA   = os.getenv("PG_SCHEMA", "public")    # 預設 public
-DATA_DIR = os.getenv("DATA_DIR", "data/tables")
+DATA_DIR = os.getenv("DATA_DIR", "../data/tables")
 CHUNK_SIZE = int(os.getenv("CSV_CHUNK_SIZE", "10000"))  # 每塊10000列，可依機器調大/調小
 
 

@@ -66,7 +66,7 @@ def create_sessionactive_doc():
             "table": table, 
             "columns": [col["name"] for col in sessionactive_columns]
         },
-        "source_path": "data/schema_csv/SessionActive .csv",
+        "source_path": "../../data/schema_csv/SessionActive .csv",
         "content_hash": hashlib.sha256(text.encode()).hexdigest(),
         "embedding": vec,
         "updatedAt": time.time()

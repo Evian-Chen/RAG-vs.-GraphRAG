@@ -104,7 +104,7 @@ def parse_schema_csv(csvp):
         table = csvp.stem
         return table, [], []
 
-for csvp in Path("data/schema_csv").glob("*.csv"):
+for csvp in Path("../data/schema_csv").glob("*.csv"):
     try:
         table, columns, columns_info = parse_schema_csv(csvp)
         text = to_text(table, None, columns_info)
