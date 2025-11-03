@@ -122,7 +122,7 @@ local_context_params = {
 }
 
 llm_params = {
-    "max_tokens": 1_000,  # change this based on the token limit you have on your model (if you are using a model with 8k limit, a good setting could be 1000=1500)
+    "max_tokens": 2_000,  # change this based on the token limit you have on your model (if you are using a model with 8k limit, a good setting could be 1000=1500)
     "temperature": 0.0,
 }
 
@@ -134,9 +134,13 @@ search_engine = LocalSearch(
     context_builder_params=local_context_params,
     response_type="multiple paragraphs",  # free form text describing the response type and format, can be anything, e.g. prioritized list, single paragraph, multiple paragraphs, multiple-page report
 )
+query = "Tell me about Leonardo Da Vinci"
 
-result = asyncio.run(search_engine.asearch("Tell me about Leonardo Da Vinci"))
-print(result.response)
+result = asyncio.run(search_engine.asearch(query))
+print(f"查詢: {query}")
+print(f"回答: {result.response}")
+print(f"搜尋時間: {result.completion_time}")
+print(f"使用的 tokens: {result.llm_calls}")
 
 # === question generation === #
 question_generator = LocalQuestionGen(
@@ -153,4 +157,4 @@ question_history = [
 candidate_questions = asyncio.run(question_generator.agenerate(
         question_history=question_history, context_data=None, question_count=5
     ))
-print(candidate_questions.response)
+print(f"生成問題: {candidate_questions.response}")
