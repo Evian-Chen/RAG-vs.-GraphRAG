@@ -101,7 +101,7 @@ def ingest_one(md_path: Path, card_type="doc"):
 
 if __name__ == "__main__":
     # 你附件的 md 檔（改成你的實際路徑）
-    md_file = Path("../data/game_bet_analysis.md")
+    md_file = Path("data/game_bet_analysis.md")
     if not md_file.exists():
-        md_file = Path("../data/md/game_bet_analysis.md")
+        md_file = Path("data/md/game_bet_analysis.md")
     ingest_one(md_file)

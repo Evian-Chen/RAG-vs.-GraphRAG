@@ -217,7 +217,7 @@ def process_csv_file(csvp):
 
 def main():
     """處理所有 schema CSV 文件"""
-    schema_dir = Path("../../data/schema_csv")
+    schema_dir = Path("data/schema_csv")
     success_count = 0
     total_count = 0
     
