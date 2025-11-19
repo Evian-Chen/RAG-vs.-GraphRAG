@@ -5,3 +5,4 @@ graphrag_index/
 *.sqlite3
 *.db
 __pycache__/
+data/

@@ -1,7 +1,7 @@
 import os
 import asyncio
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(dotenv_path="./graphrag_index/.env")
 import pandas as pd
 import tiktoken
 from graphrag.query.context_builder.entity_extraction import EntityVectorStoreKey
@@ -74,7 +74,7 @@ text_unit_df.head()
 
 # == search == #
 
-api_key = os.environ["OPENAI_API_KEY"]  # Your OpenAI API key
+api_key = os.environ["GRAPHRAG_API_KEY"]  # Your OpenAI API key
 llm_model = "gpt-4o"  # Or gpt-4-turbo-preview
 embedding_model = "text-embedding-3-small"
 
@@ -122,7 +122,7 @@ local_context_params = {
 }
 
 llm_params = {
-    "max_tokens": 2_000,  # change this based on the token limit you have on your model (if you are using a model with 8k limit, a good setting could be 1000=1500)
+    "max_tokens": 1_000,  # change this based on the token limit you have on your model (if you are using a model with 8k limit, a good setting could be 1000=1500)
     "temperature": 0.0,
 }
 
@@ -134,7 +134,7 @@ search_engine = LocalSearch(
     context_builder_params=local_context_params,
     response_type="multiple paragraphs",  # free form text describing the response type and format, can be anything, e.g. prioritized list, single paragraph, multiple paragraphs, multiple-page report
 )
-query = "Tell me about Leonardo Da Vinci"
+query = "What are the significant transactions that occurred in Taipei on October 20, 2024?"
 
 result = asyncio.run(search_engine.asearch(query))
 print(f"查詢: {query}")
@@ -151,8 +151,7 @@ question_generator = LocalQuestionGen(
    context_builder_params=local_context_params,
 )
 question_history = [
-    "Tell me about Leonardo Da Vinci",
-    "Leonardo's early works",
+    "Tell me about the report",
 ]
 candidate_questions = asyncio.run(question_generator.agenerate(
         question_history=question_history, context_data=None, question_count=5

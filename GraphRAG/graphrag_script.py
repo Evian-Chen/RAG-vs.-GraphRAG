@@ -12,5 +12,5 @@ with open(file_path, 'r+', encoding='utf-8') as file:
     # If you want to save api key cost, you can truncate the text file to a smaller size.
     lines = file.readlines()
     file.seek(0)
-    file.writelines(lines[:400])  # Decrease this number if you want to save api key cost. (originally 934)
+    file.writelines(lines[:1000])  # Decrease this number if you want to save api key cost. (originally 934)
     file.truncate()
