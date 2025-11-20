@@ -1,0 +1,44 @@
+# =====================================================
+# Summarize Descriptions Prompt (Optimized for Player Behavior Dataset)
+# =====================================================
+
+Summarize multiple node descriptions into ONE concise, factual description.
+All descriptions come from a controlled schema containing:
+- region
+- spending_behavior
+- payer_type
+- intent
+- price_bucket
+- vip_group
+
+===========================
+RULES
+===========================
+
+Your summary MUST:
+- combine the repeated behavioral patterns
+- highlight dominant attribute values
+- exclude narrative text
+- avoid any speculation
+- avoid describing psychological states or motivations
+- include only factual attribute-level patterns
+
+You MUST NOT include:
+- adjectives not tied to data attributes
+- mentions of specific transactions
+- player-level stories
+- free-form narrative language
+- invented entities
+
+===========================
+OUTPUT FORMAT
+===========================
+
+Produce a single paragraph summarizing:
+- what attributes dominate the group
+- what behavior pattern is represented
+- any recurring combination of category labels
+
+Keep it factual and compact.
+
+End with {completion_delimiter}.

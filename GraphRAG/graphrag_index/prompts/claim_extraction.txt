@@ -1,0 +1,52 @@
+# =====================================================
+# Claim Extraction Prompt (Optimized for Game Behavior Dataset)
+# =====================================================
+
+Your task is to extract ONLY factual, non-speculative claims directly supported
+by the structured fields in the input text.
+
+The dataset represents individual player transactions in a mobile game.
+Each record contains:
+- region
+- spending_behavior
+- payer_type
+- intent
+- price_bucket
+- vip_group
+
+===========================
+RULES
+===========================
+
+You MUST extract claims that represent:
+- behavioral patterns
+- region-based spending tendencies
+- VIP-level patterns
+- intent categories
+- payer type categories
+
+Valid claims include:
+- frequency claims (e.g., “mid_low spending is most common in Tainan City”)
+- correlation claims (e.g., “stable payers frequently appear in Taipei City”)
+- comparative claims (e.g., “high spending behavior is rare relative to mid behavior”)
+- trend claims grounded in the data (e.g., “vip_0 players tend to perform low spending transactions”)
+
+INVALID claims:
+- narrative interpretations (“players enjoy…”)
+- psychological speculation (“this shows motivation…”)
+- adjectives not grounded in attributes
+- claims about individual players
+- claims involving transaction IDs
+- claims involving price strings or narrative sentences
+- ANYTHING outside defined entity types
+
+===========================
+OUTPUT FORMAT
+===========================
+
+For each claim, output:
+("claim"{tuple_delimiter}<claim_text>{tuple_delimiter}<source>{tuple_delimiter}<confidence>)
+
+Use ONLY the dataset patterns as source, not narrative sentences.
+
+End with {completion_delimiter}.

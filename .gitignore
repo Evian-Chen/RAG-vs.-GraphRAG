@@ -1,7 +1,6 @@
 .env
 tables/
 *.csv
-graphrag_index/
 *.sqlite3
 *.db
 __pycache__/

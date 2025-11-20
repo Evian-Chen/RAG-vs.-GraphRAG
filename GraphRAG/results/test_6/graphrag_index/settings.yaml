@@ -1,0 +1,131 @@
+encoding_model: cl100k_base
+skip_workflows: []
+
+llm:
+  api_key: ${GRAPHRAG_API_KEY}
+  type: openai_chat
+  model: gpt-4o-mini
+  model_supports_json: true
+  concurrent_requests: 5
+
+parallelization:
+  stagger: 0.2
+
+async_mode: threaded
+
+embeddings:
+  async_mode: threaded
+  llm:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_embedding
+    model: text-embedding-3-small
+    concurrent_requests: 5
+
+# -------------------------------------------
+#                Chunk 設定
+# -------------------------------------------
+chunks:
+  size: 512          # 一筆交易 narrative + metadata = 180–320 tokens → 512 剛好一筆
+  overlap: 64        # 保留 narrative 結尾語意，避免切斷 inferred
+  group_by_columns: [id]   # 保證每一筆交易獨立，不會跨筆切斷
+
+input:
+  type: file
+  file_type: text
+  base_dir: "input"
+  file_encoding: "utf-8"
+  file_pattern: ".*\\.txt$"
+
+cache:
+  type: file
+  base_dir: "cache"
+
+storage:
+  type: file
+  base_dir: "output/${timestamp}/artifacts"
+
+reporting:
+  type: file
+  base_dir: "output/${timestamp}/reports"
+
+# -------------------------------------------
+#          Entity 抽取（最重要）
+# -------------------------------------------
+entity_extraction:
+  prompt: "prompts/entity_extraction.txt"
+  entity_types:
+    - region
+    - spending_behavior
+    - payer_type
+    - intent
+    - price_bucket
+    - vip_group
+  max_gleanings: 12
+      # 你的資料一筆包含 12 metadata + 3 inferred，建議 20–30
+
+# -------------------------------------------
+#          Relationship 抽取
+# -------------------------------------------
+relationship_extraction:
+  enabled: true
+  prompt: "prompts/relationship_extraction.txt"
+  max_length: 2000
+  max_gleanings: 16
+  relationship_types:
+    - player_performs_transaction
+    - transaction_in_region
+    - transaction_has_behavior
+    - transaction_has_intent
+    - transaction_has_payer_type
+
+# -------------------------------------------
+#         Summaries（對你可選）
+# -------------------------------------------
+summarize_descriptions:
+  prompt: "prompts/summarize_descriptions.txt"
+  max_length: 600
+
+claim_extraction:
+  enabled: false     # 避免 narrative 誤生成 claims
+
+# -------------------------------------------
+#         Community Reports
+# -------------------------------------------
+community_reports:
+  prompt: "prompts/community_report.txt"
+  max_length: 2000
+  max_input_length: 8000
+
+# -------------------------------------------
+#        Clustering 設定
+# -------------------------------------------
+cluster_graph:
+  max_cluster_size: 20
+
+embed_graph:
+  enabled: false
+
+umap:
+  enabled: false
+
+snapshots:
+  raw_entities: false
+  graphml: false
+  top_level_nodes: false
+
+# -------------------------------------------
+#       Local / Global Search 設定
+# -------------------------------------------
+local_search:
+  top_k_relationships: 12
+  top_k_mapped_entities: 12
+  llm_temperature: 0
+  max_tokens: 10000
+
+global_search:
+  llm_temperature: 0
+  max_tokens: 10000
+  data_max_tokens: 12000
+  map_max_tokens: 1200
+  reduce_max_tokens: 2000
+  concurrency: 32

@@ -1,0 +1,70 @@
+# =====================================================
+# Community Report Prompt (Optimized for Player Behavior Graph)
+# =====================================================
+
+You are generating a community report for clusters of entities extracted from
+a game transaction knowledge graph.
+
+Each community contains ONLY controlled entity categories:
+- region
+- spending_behavior
+- payer_type
+- intent
+- price_bucket
+- vip_group
+
+===========================
+WHAT YOU MUST WRITE
+===========================
+
+For each community, produce:
+1. A clear, domain-specific summary of what this community represents.
+2. Behavioral interpretation grounded ONLY in the structured attributes.
+3. Zero speculation about emotions, psychology, or personal preference.
+4. Only describe patterns that logically emerge from the cluster composition.
+
+===========================
+VALID REPORT CONTENT
+===========================
+
+You may describe:
+- typical spending behaviors in that community
+- common payer_types (light/mid/stable)
+- dominant regions
+- frequently associated intents
+- typical VIP levels
+- meaningful combinations (e.g., “mid_low + progress_boost + vip_0”)
+
+DO NOT include:
+- narrative sentences
+- player motivations
+- explanations not present in attributes
+- market-size claims
+- speculative causes
+
+===========================
+REPORT FORMAT
+===========================
+
+For each community:
+- A title summarizing the dominant pattern
+- A short bullet list summarizing behavior traits
+- A 3–5 sentence paragraph describing the cluster meaning
+
+Output your response in JSON format with the following structure:
+{
+  "title": "community pattern title",
+  "summary": "behavioral traits summary",
+  "findings": ["finding 1", "finding 2", "finding 3"],
+  "rating": 7.5,
+  "rating_explanation": "explanation of importance rating"
+}
+
+===========================
+GOAL
+===========================
+
+Produce precise, compact cluster explanations in JSON format
+based ONLY on patterns within the structured game-behavior graph.
+
+End with {completion_delimiter}.

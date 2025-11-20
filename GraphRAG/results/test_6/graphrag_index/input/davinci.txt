@@ -1,0 +1,10976 @@
+[Transaction]
+id: P025504754
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504120
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498878
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504140
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498493
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504907
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502844
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498538
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498674
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504199
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid
+payer_type: light
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 0→0，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505847
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502845
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500617
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504679
+date: 2024-10-20
+country: TW
+region: None
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 None 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025496572
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499306
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505370
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505017
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504452
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Yunlin 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505571
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502118
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505464
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505465
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505457
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505474
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505139
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498924
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498572
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500644
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 2
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: low
+payer_type: light
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 0→0，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504204
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500157
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497914
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504958
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500804
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498950
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503260
+date: 2024-10-20
+country: HK
+region: Hong Kong
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Hong Kong 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503377
+date: 2024-10-20
+country: US
+region: Aurora
+price: 90.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Aurora 發生一筆 90.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504922
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: light
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 0→0，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503684
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 490.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 0
+vip_after: 0
+
+[Inferred]
+spending_behavior: mid
+payer_type: light
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 490.0 元交易，屬於 mid 行為。VIP 狀態 0→0，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498269
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501859
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500003
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506172
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503106
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499724
+date: 2024-10-20
+country: TW
+region: Pingzhen
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Pingzhen 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498971
+date: 2024-10-20
+country: HK
+region: None
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 None 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503827
+date: 2024-10-20
+country: TW
+region: Hsinchu
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Hsinchu 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504631
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498633
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501172
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Miaoli 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502368
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504348
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498229
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505906
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500196
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503155
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502340
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499763
+date: 2024-10-20
+country: TW
+region: Pingzhen
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Pingzhen 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498241
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025500604
+date: 2024-10-20
+country: TW
+region: Yongkang District
+price: 3290.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: high
+payer_type: mid
+intent: heavy_purchase
+
+[Summary]
+玩家於 Yongkang District 發生一筆 3290.0 元交易，屬於 high 行為。VIP 狀態 1→1，推估目的 heavy_purchase。
+
+---
+[Transaction]
+id: P025503479
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 3290.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: high
+payer_type: mid
+intent: heavy_purchase
+
+[Summary]
+玩家於 New Taipei City 發生一筆 3290.0 元交易，屬於 high 行為。VIP 狀態 1→1，推估目的 heavy_purchase。
+
+---
+[Transaction]
+id: P025502825
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 60.0
+total_amount: 1
+coin_type: 2
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498259
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504114
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500680
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502105
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501321
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506448
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Pingtung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503040
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502220
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503347
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501909
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499923
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498685
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505394
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503315
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502916
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Yunlin 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505428
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505673
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504828
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504740
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Miaoli 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500547
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499158
+date: 2024-10-20
+country: TW
+region: Nantou City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Nantou City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502600
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503478
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504873
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500517
+date: 2024-10-20
+country: TW
+region: Puli
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Puli 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498951
+date: 2024-10-20
+country: HK
+region: None
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 None 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502499
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500848
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504105
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500996
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499626
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505839
+date: 2024-10-20
+country: TW
+region: Hsinchu County
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Hsinchu County 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502812
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501132
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Miaoli 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505740
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503569
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498260
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506166
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506339
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505887
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499151
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499833
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506044
+date: 2024-10-20
+country: TW
+region: Hsinchu County
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Hsinchu County 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504287
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Zhongli District 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499370
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501519
+date: 2024-10-20
+country: TW
+region: Hualien City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Hualien City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499123
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505028
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502936
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Miaoli 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498318
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498265
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505352
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497580
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499526
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501638
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504990
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Pingtung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502117
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506312
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500367
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501247
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502757
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506440
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 30.0
+total_amount: 1
+coin_type: 2
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Pingtung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505473
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 33.0
+total_amount: 1
+coin_type: 2
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Miaoli 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504786
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499928
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502407
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502238
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504714
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499324
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Yunlin 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498999
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499277
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 10.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 10.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503172
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 10.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 10.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503001
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504728
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502013
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504378
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498531
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500999
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Pingtung City 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504423
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502347
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501844
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499899
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505649
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498774
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500344
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500002
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500064
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504126
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500541
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500585
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505572
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501486
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Pingtung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505075
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501527
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 1→1，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505084
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 290.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Pingtung City 發生一筆 290.0 元交易，屬於 mid 行為。VIP 狀態 1→1，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025497668
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Yunlin 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498973
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502149
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506145
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 1
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→1，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504589
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498937
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497909
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503141
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497786
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498066
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497508
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501567
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502308
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502418
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500080
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501254
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500850
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497800
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500536
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500292
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 1→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504551
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503880
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501970
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504475
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504493
+date: 2024-10-20
+country: TW
+region: Chiayi City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Chiayi City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503511
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504569
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505960
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504384
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499878
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503015
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502316
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502510
+date: 2024-10-20
+country: TW
+region: Hsinchu County
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Hsinchu County 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 1→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500479
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501562
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500326
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505733
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505737
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504247
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502537
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Yunlin 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504480
+date: 2024-10-20
+country: TW
+region: Chiayi City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Chiayi City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 1→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505448
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501177
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497619
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498374
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025497776
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025500389
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498365
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 600.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 600.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498481
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 600.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 600.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505107
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 600.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 600.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504213
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 600.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 600.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505209
+date: 2024-10-20
+country: TW
+region: None
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 None 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499096
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506180
+date: 2024-10-20
+country: TW
+region: Yilan
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Yilan 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498211
+date: 2024-10-20
+country: TW
+region: Yilan
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Yilan 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501637
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498092
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498132
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498144
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503679
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504949
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501374
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499395
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503465
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501675
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505883
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504793
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504925
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504968
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503764
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502276
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503476
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497714
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504808
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501421
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502110
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Zhongli District 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499419
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501603
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498244
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498163
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499575
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025501467
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498841
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503169
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Miaoli 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025497684
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498020
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505355
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498251
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025506379
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025501529
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Tainan City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025501865
+date: 2024-10-20
+country: TW
+region: Hsinchu
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Hsinchu 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025506214
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503080
+date: 2024-10-20
+country: TW
+region: Chiayi City
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Chiayi City 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025502350
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504697
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498998
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498190
+date: 2024-10-20
+country: TW
+region: Yilan
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Yilan 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504519
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025501361
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 670.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 New Taipei City 發生一筆 670.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498704
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 1690.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: high
+payer_type: stable
+intent: heavy_purchase
+
+[Summary]
+玩家於 Taipei 發生一筆 1690.0 元交易，屬於 high 行為。VIP 狀態 2→2，推估目的 heavy_purchase。
+
+---
+[Transaction]
+id: P025498839
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 60.0
+total_amount: 1
+coin_type: 2
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506469
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 150.0
+total_amount: 1
+coin_type: 2
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500093
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 70.0
+total_amount: 1
+coin_type: 2
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500030
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504217
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506046
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503457
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 2
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501499
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 33.0
+total_amount: 1
+coin_type: 2
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503883
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506189
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498011
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501039
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501622
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Yunlin 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504164
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Yunlin 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503022
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498842
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 60.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 60.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497629
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502767
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Tainan City 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505131
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 600.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 600.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025501694
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500552
+date: 2024-10-20
+country: TW
+region: Puli
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Puli 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 1→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502709
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504826
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504747
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Banqiao 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505877
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Banqiao 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504755
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Banqiao 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505658
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Banqiao 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505873
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Banqiao 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499070
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502952
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504131
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504953
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499727
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 70.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 70.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505514
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499039
+date: 2024-10-20
+country: TW
+region: Hsinchu County
+price: 330.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Hsinchu County 發生一筆 330.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498253
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 450.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 450.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498016
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 400.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 400.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504946
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 New Taipei City 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503648
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499018
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505050
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Miaoli 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504954
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503030
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498070
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504442
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506167
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499068
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504840
+date: 2024-10-20
+country: TW
+region: None
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 None 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503935
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025506086
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025500133
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501078
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501253
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501108
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505496
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501577
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500655
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501628
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501343
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505046
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499710
+date: 2024-10-20
+country: TW
+region: None
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 None 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025500454
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499522
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Pingtung City 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498960
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Zhongli District 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499828
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Pingtung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499657
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Pingtung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503517
+date: 2024-10-20
+country: TW
+region: None
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 None 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499337
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Zhongli District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499309
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499365
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506374
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506190
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506259
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502356
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025506405
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500120
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500414
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500570
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499645
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505173
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500261
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499807
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501368
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500508
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505116
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 5
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505336
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 90.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Zhongli District 發生一筆 90.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504404
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 90.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 90.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497701
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 90.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 90.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504325
+date: 2024-10-20
+country: TW
+region: Nantou City
+price: 10.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Nantou City 發生一筆 10.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504332
+date: 2024-10-20
+country: TW
+region: Nantou City
+price: 10.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Nantou City 發生一筆 10.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503888
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 1000.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: high
+payer_type: mid
+intent: heavy_purchase
+
+[Summary]
+玩家於 Taipei 發生一筆 1000.0 元交易，屬於 high 行為。VIP 狀態 1→2，推估目的 heavy_purchase。
+
+---
+[Transaction]
+id: P025499537
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499019
+date: 2024-10-20
+country: TW
+region: Chang-hua
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Chang-hua 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497596
+date: 2024-10-20
+country: TW
+region: Chang-hua
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Chang-hua 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 1→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503041
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503413
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 1000.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: high
+payer_type: mid
+intent: heavy_purchase
+
+[Summary]
+玩家於 Taichung 發生一筆 1000.0 元交易，屬於 high 行為。VIP 狀態 1→2，推估目的 heavy_purchase。
+
+---
+[Transaction]
+id: P025504791
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025500561
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499108
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506254
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505645
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505685
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 150.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 150.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499148
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499919
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504914
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497769
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Pingtung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499062
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503901
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505510
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Tainan City 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504320
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504819
+date: 2024-10-20
+country: TW
+region: Miaoli
+price: 50.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Miaoli 發生一筆 50.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499992
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499958
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504162
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501593
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502666
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501523
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501235
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502728
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501178
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501716
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501545
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501644
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506000
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506071
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506119
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025497969
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 100.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 100.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502682
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 500.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 5
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 500.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505787
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 170.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 170.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504288
+date: 2024-10-20
+country: TW
+region: Taoyuan
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504426
+date: 2024-10-20
+country: TW
+region: Taoyuan
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500025
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504198
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505819
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504816
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505304
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505408
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505521
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503831
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503812
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502781
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 33.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 33.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505825
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 199.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 199.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505597
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 299.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 299.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505008
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 199.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 199.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501508
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 199.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 199.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501720
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Zhongli District 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498502
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 699.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 699.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498523
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503139
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503320
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503163
+date: 2024-10-20
+country: TW
+region: Zhubei
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Zhubei 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499378
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505340
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498913
+date: 2024-10-20
+country: TW
+region: Zhubei
+price: 88.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Zhubei 發生一筆 88.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501249
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 199.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: mid
+intent: progress_boost
+
+[Summary]
+玩家於 Pingtung City 發生一筆 199.0 元交易，屬於 mid_low 行為。VIP 狀態 1→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501190
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 199.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 199.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500180
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 199.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 199.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025499250
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 168.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 New Taipei City 發生一筆 168.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502941
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 599.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 599.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025498061
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505466
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025503632
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025502501
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506281
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498727
+date: 2024-10-20
+country: TW
+region: Yunlin
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Yunlin 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505617
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025501568
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500236
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 69.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 69.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025500301
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025498781
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025506113
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 299.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 299.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499176
+date: 2024-10-20
+country: TW
+region: Zhongli District
+price: 300.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Zhongli District 發生一筆 300.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505433
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504691
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taipei 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025505717
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 99.0
+total_amount: 1
+coin_type: 1
+channel: 5
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid_low
+payer_type: stable
+intent: progress_boost
+
+[Summary]
+玩家於 Taichung 發生一筆 99.0 元交易，屬於 mid_low 行為。VIP 狀態 2→2，推估目的 progress_boost。
+
+---
+[Transaction]
+id: P025504559
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499215
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025499074
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505006
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 New Taipei City 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504945
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025505060
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025502683
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 390.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taipei 發生一筆 390.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504738
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 290.0
+total_amount: 1
+coin_type: 1
+channel: 1
+system_type: 2
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 Banqiao 發生一筆 290.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504228
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 990.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: mid
+intent: event_or_powerup
+
+[Summary]
+玩家於 Taichung 發生一筆 990.0 元交易，屬於 mid 行為。VIP 狀態 1→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025504558
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 990.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: mid
+payer_type: stable
+intent: event_or_powerup
+
+[Summary]
+玩家於 New Taipei City 發生一筆 990.0 元交易，屬於 mid 行為。VIP 狀態 2→2，推估目的 event_or_powerup。
+
+---
+[Transaction]
+id: P025503088
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502748
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501993
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498714
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505398
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497993
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503275
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498787
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 1
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: mid
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 1→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506443
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506432
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503740
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503217
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500395
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497845
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497666
+date: 2024-10-20
+country: TW
+region: Taoyuan District
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taoyuan District 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499795
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Banqiao 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506499
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506039
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506502
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503492
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497683
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499964
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497945
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025498187
+date: 2024-10-20
+country: TW
+region: Hsinchu
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Hsinchu 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497890
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503062
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502005
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499214
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501615
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500195
+date: 2024-10-20
+country: TW
+region: Banqiao
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Banqiao 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499835
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500919
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505703
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025505809
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497433
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506451
+date: 2024-10-20
+country: TW
+region: Pingtung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Pingtung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501211
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502331
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504076
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502410
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500226
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025504957
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506117
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503658
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501470
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506302
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025506183
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503948
+date: 2024-10-20
+country: TW
+region: Yilan
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Yilan 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497765
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025497522
+date: 2024-10-20
+country: TW
+region: Kaohsiung City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Kaohsiung City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501952
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500088
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025499239
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025500634
+date: 2024-10-20
+country: TW
+region: New Taipei City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 New Taipei City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025503006
+date: 2024-10-20
+country: TW
+region: Taipei
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taipei 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025501033
+date: 2024-10-20
+country: TW
+region: Tainan City
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Tainan City 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。
+
+---
+[Transaction]
+id: P025502762
+date: 2024-10-20
+country: TW
+region: Taichung
+price: 30.0
+total_amount: 1
+coin_type: 1
+channel: 2
+system_type: 1
+vip_before: 2
+vip_after: 2
+
+[Inferred]
+spending_behavior: low
+payer_type: stable
+intent: routine_item
+
+[Summary]
+玩家於 Taichung 發生一筆 30.0 元交易，屬於 low 行為。VIP 狀態 2→2，推估目的 routine_item。

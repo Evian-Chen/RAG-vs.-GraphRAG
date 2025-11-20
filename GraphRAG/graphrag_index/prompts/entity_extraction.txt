@@ -1,0 +1,71 @@
+# ============================
+#  Entity Extraction Prompt
+#  Optimized for Game Transaction Knowledge Graph
+# ============================
+
+Your task is to extract ONLY the allowed, predefined entity types from the text.
+Do NOT infer new entity types. Do NOT extract narrative nouns or descriptive phrases.
+
+Allowed entity_types:
+- region
+- spending_behavior
+- payer_type
+- intent
+- price_bucket
+- vip_group
+
+============================
+RULES
+============================
+
+1. You MUST extract ONLY entities that directly match the above categories.
+
+2. You MUST ignore:
+- transaction IDs
+- order numbers
+- player IDs
+- dates
+- amounts (unless converted to price_bucket)
+- any natural-language phrases from summaries
+- adjectives or descriptive language
+- any nouns not explicitly listed in allowed types
+
+3. For each entity, return:
+("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+4. For each relationship between two extracted entities:
+("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+5. You MUST NOT create relationships involving text fragments or inferred narrative concepts.
+
+6. Only extract entities like:
+- Region names (e.g., “Taipei City”, “Tainan City”, “Kaohsiung City”)
+- spending_behavior labels (“low”, “mid_low”, “mid”, “high”)
+- payer_type labels (“light”, “mid”, “stable”)
+- intent labels (“routine_item”, “progress_boost”, “event_or_powerup”, “heavy_purchase”)
+- price_bucket categories (“under_50”, “50_200”, etc.)
+- vip_group (“vip_0”, “vip_1”, “vip_2plus”)
+
+7. If something is not part of these categories, DO NOT extract it.
+
+8. The output must include ONLY these controlled entities and their relationships.
+
+============================
+GOAL
+============================
+
+Produce a SMALL, STABLE set of reusable entities (~10–50) that represent:
+- player behavior patterns
+- core regions
+- spending types
+- VIP groups
+- intents
+
+Do NOT generate hundreds of nodes.
+
+============================
+OUTPUT FORMAT
+============================
+
+Return all entities and relationships in a single list,
+using {record_delimiter} as delimiter, and end with {completion_delimiter}.
